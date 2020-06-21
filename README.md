@@ -18,10 +18,11 @@ Here is my submission which is accepted by Apple for WWDC20 Swift Student Challe
  For example, computer is semantically close to "notebook" but semantically far away from "apple"
  
 ## Credits:
-### Sounds that used in this playground retrieved from: *freesound.org*
-### Image that used in this playground retrieved from: *flickr.com*
+- Sounds that used in this playground retrieved from: *freesound.org*
+- Image that used in this playground retrieved from: *flickr.com*
 
-### You may ask your questions about WWDC and my submission through my mail --> (akali@sabanciuniv.edu)
-### Ali Eren Ak Istanbul, Turkey
+### You may ask your questions about WWDC and my submission through my mail
+- Ali Eren Ak Istanbul, Turkey
+- akali@sabanciuniv.edu
 
 ## Have FUN!!
